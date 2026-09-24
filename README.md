@@ -1,6 +1,6 @@
 # SingleApplication
 
-[![CI](https://github.com/itay-grudev/SingleApplication/workflows/CI:%20Build%20Test/badge.svg?branch=master)](https://github.com/itay-grudev/SingleApplication/actions)
+[![CI: Test](https://github.com/itay-grudev/SingleApplication/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/itay-grudev/SingleApplication/actions/workflows/main.yml?query=branch%3Amaster)
 
 This is a replacement of the QtSingleApplication for `Qt5` and `Qt6`.
 
@@ -8,9 +8,9 @@ Keeps the Primary Instance of your Application and kills each subsequent
 instance. It can (if enabled) spawn secondary (non-related to the primary)
 instances and can send data to the primary instance from secondary instances.
 
-# [Documentation](https://itay-grudev.github.io/SingleApplication/)
+# Documentation
 
-You can find the full usage reference and examples [here](https://itay-grudev.github.io/SingleApplication/classSingleApplication.html).
+You can find the full usage reference and examples in our library [documentation](https://itay-grudev.github.io/SingleApplication/classSingleApplication.html).
 
 ## Usage
 
